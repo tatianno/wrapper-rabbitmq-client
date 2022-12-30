@@ -11,7 +11,7 @@ RabbitMQProducer is available on PyPI:
 
 `$ python -mpip install wrapper-rabbitmq-client`
 
-AMI2RabbitMQ officially supports Python 3.8+.
+RabbitMQProducer officially supports Python 3.8+.
 
 ## Cloning the repository
 
