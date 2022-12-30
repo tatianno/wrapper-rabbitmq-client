@@ -9,7 +9,7 @@ It is a message producer for a RabbitMQ Server.
 
 RabbitMQProducer is available on PyPI:
 
-`$ python -mpip install wrapper-rabbitmq-client`
+`$ python -m pip install wrapper-rabbitmq-client`
 
 RabbitMQProducer officially supports Python 3.8+.
 

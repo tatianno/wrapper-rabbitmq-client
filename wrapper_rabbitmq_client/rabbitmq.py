@@ -5,7 +5,7 @@ import pika
 class RabbitMQProducer():
     __connection = None
     __channel = None
-    version = '0.0.2'    
+    version = '0.0.3'    
 
     def __init__(self, rabbitmq_settings: dict, logs_app=None):
         self.host = rabbitmq_settings['host']
