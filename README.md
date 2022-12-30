@@ -5,7 +5,7 @@
 It is a message producer for a RabbitMQ Server.
 
 
-## Installing AMI2RabbitMQ and Supported Versions
+## Installing RabbitMQProducer and Supported Versions
 
 RabbitMQProducer is available on PyPI:
 
