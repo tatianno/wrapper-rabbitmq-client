@@ -1,0 +1,5 @@
+wrapper_rabbitmq_client.egg-info/
+build/
+dist/
+venv/
+__pycache__/
